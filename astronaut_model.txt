@@ -1,0 +1,21 @@
+Astronaut
+----------
++ name: str
++ year: date
++ group: int
++ status: str
++ birth_date: date
++ birth_place: str
++ gender: str
++ alma_mater: str
++ undergrad_major: str
++ grad_major: str
++ military_rank: str
++ military_branch: str
++ flights: int
++ flight_hours: int
++ walks: int
++ walk_hours: int
++ missions: str
++ death_date: date
++ death_mission: str
